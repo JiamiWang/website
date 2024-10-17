@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiamiwang.github.io/sitemap.xml
+Sitemap: https://www.jiaming.dev/sitemap.xml
