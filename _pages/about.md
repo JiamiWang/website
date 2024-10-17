@@ -22,4 +22,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm currently a student in South Pasadena High School. I'm an avid and eager developer, with experience and knowledge in C# and JavaScript. 
+I'm currently a student in South Pasadena High School. I'm an avid and eager developer, with experience and knowledge in C# and JavaScript.  
