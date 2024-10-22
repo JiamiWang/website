@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+If any publication is made public, it will be here.
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
